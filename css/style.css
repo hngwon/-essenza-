@@ -656,19 +656,18 @@ margin-top: 200px;
 /* COLLECTION */
 
     #COLLECTION {
-        width: 1920px;
-        margin: 0px auto;
         overflow: hidden;
     }
 
     #COLLECTION h2 {
+        width: 1320px;
+        margin: 0px auto;
         margin-bottom: 60px;
         text-align: center;
         font-size: 45px;
         font-family: "Abhaya Libre", serif;
         letter-spacing: 2px;
     }
-
     .COLLECTION_wrap {
         display: inline-flex;
         justify-content: center;
